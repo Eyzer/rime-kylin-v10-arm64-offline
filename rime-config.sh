@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# 中州韵（Rime）配置编辑器 —— Linux fcitx5 / fcitx4 / ibus
+# 中州韵（Rime）输入法的配置编辑器 —— Linux fcitx5 / fcitx4 / ibus
 # 只读写 *_custom.yaml 与 default.custom.yaml，绝不改动发行版自带的 default.yaml
 set -uo pipefail
 
